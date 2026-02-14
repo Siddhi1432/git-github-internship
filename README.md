@@ -13,3 +13,5 @@ This repository contains my daily learning and tasks during my internship.
 Started: 2026
 
 
+## Day 1 Learning
+- Learned daily Git workflow
