@@ -18,3 +18,6 @@ Started: 2026
 
 ## Day 2 Learning
 - Learned Git branching and merging
+
+## Day 3 Learning
+- Learned Pull Request workflow
