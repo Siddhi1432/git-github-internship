@@ -14,7 +14,7 @@ Started: 2026
 
 
 ## Day 1 Learning
-- Learned daily Git workflow
+- Learned Git basics and commands
 
 ## Day 2 Learning
 - Learned Git branching and merging
