@@ -21,3 +21,6 @@ Started: 2026
 
 ## Day 3 Learning
 - Learned Pull Request workflow
+
+## Git best practices 
+- Professional commit messages
