@@ -24,3 +24,25 @@ local.properties
 .DS_Store
 Thumbs.db
 
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+out/
+
+# IDE
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.swp
