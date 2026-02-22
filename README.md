@@ -24,3 +24,5 @@ Started: 2026
 
 ## Git best practices 
 - Professional commit messages
+
+Bad change
